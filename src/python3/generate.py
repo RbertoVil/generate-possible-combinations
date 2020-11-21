@@ -72,7 +72,7 @@ list = []
 
 def main():
     
-    print("Hi, this program has the objetive of find the number of possible combinations of sentences in a truth table")
+    print("Hi, this program has the objetive of find all possible combinations of sentences in a truth table")
     print("This could be very helpfull at propositional logic")
 
     numberSentence = numberSentences()
